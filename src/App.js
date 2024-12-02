@@ -101,6 +101,9 @@ const Container = styled.div`
       transform: scale(1.1);
     }
   }
+  @media (max-width:768px){
+    width: 85vw;
+  }
   
 `;
 
